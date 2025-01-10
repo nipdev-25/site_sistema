@@ -22,6 +22,7 @@ from django.urls import path
 import logging
 from django.http import JsonResponse
 
+
 # Obtenha o logger configurado
 logger = logging.getLogger('requestlogs')
 
